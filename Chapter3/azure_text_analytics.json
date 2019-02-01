@@ -1,0 +1,77 @@
+{
+  "languageDetection": {
+    "documents": [
+      {
+        "id": "cb64821e-57fd-47e9-b745-0ad7d15b3ece",
+        "detectedLanguages": [
+          {
+            "name": "English",
+            "iso6391Name": "en",
+            "score": 1.0
+          }
+        ]
+      }
+    ],
+    "errors": []
+  },
+  "keyPhrases": {
+    "documents": [
+      {
+        "id": "cb64821e-57fd-47e9-b745-0ad7d15b3ece",
+        "keyPhrases": [
+          "Seattle",
+          "wonderful trip",
+          "Space Needle"
+        ]
+      }
+    ],
+    "errors": []
+  },
+  "sentiment": {
+    "documents": [
+      {
+        "id": "cb64821e-57fd-47e9-b745-0ad7d15b3ece",
+        "score": 0.97037649154663086
+      }
+    ],
+    "errors": []
+  },
+  "entities": {
+    "documents": [
+      {
+        "id": "cb64821e-57fd-47e9-b745-0ad7d15b3ece",
+        "entities": [
+          {
+            "name": "Space Needle",
+            "matches": [
+              {
+                "text": "the Space Needle",
+                "offset": 53,
+                "length": 16
+              }
+            ],
+            "wikipediaLanguage": "en",
+            "wikipediaId": "Space Needle",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Space_Needle",
+            "bingId": "f8dd5b08-206d-2554-6e4a-893f51f4de7e"
+          },
+          {
+            "name": "Seattle",
+            "matches": [
+              {
+                "text": "Seattle",
+                "offset": 26,
+                "length": 7
+              }
+            ],
+            "wikipediaLanguage": "en",
+            "wikipediaId": "Seattle",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Seattle",
+            "bingId": "5fbba6b8-85e1-4d41-9444-d9055436e473"
+          }
+        ]
+      }
+    ],
+    "errors": []
+  }
+}
