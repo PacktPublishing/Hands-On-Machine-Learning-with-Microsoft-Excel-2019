@@ -1,4 +1,4 @@
-pclass,survived,sex,age,Age group
+pclass,survived,gende,age,Age group
 1,1,female,29,adult
 1,1,male,0.9167,infant
 1,0,female,2,child
