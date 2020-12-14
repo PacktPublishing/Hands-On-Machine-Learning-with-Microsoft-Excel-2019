@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-machine-learning-with-microsoft-excel-2019/9781789345377)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1789345375).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Hands-On Machine Learning with Microsoft Excel 2019
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-microsoft-excel-2019?utm_source=github&utm_medium=repository&utm_campaign=9781789345377"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11258_cover.png" alt="Hands-On Machine Learning with Microsoft Excel 2019" height="256px" align="right"></a>
